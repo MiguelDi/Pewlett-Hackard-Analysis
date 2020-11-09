@@ -18,7 +18,7 @@ The purpose of this analysis is to answer two important questions:
    - postgresSQL
    
 ## Results of the Analysis
-The queries for mentorship by title and department were derived from [mentor elegibility](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibilty.csv)
+The queries for mentorship by title and department were derived from [mentor elegibility](https://github.com/MiguelDi/Pewlett-Hackard-Analysis/blob/main/Challenge%20Data%20%26%20Queries/mentorship_eligibilty.csv)
  - ### Number of Retiring Employees by Title
 ![Retiring by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Number%20of%20Retiring%20Employees%20by%20title.png)
  - ### Number of Retiring Employees by Department
