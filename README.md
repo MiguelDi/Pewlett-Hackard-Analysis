@@ -20,13 +20,13 @@ The purpose of this analysis is to answer two important questions:
 ## Results of the Analysis
 The queries for mentorship by title and department were derived from [mentor elegibility](https://github.com/MiguelDi/Pewlett-Hackard-Analysis/blob/main/Challenge%20Data%20%26%20Queries/mentorship_eligibilty.csv)
  - ### Number of Retiring Employees by Title
- !![](Resources/Retirementbytitle.png)
+ ![](Resources/Retirementbytitle.png)
  - ### Number of Retiring Employees by Department
- !![](Resources/Retirementemployeesbydept.png)
+ ![](Resources/Retirementemployeesbydept.png)
  - ### Number of Employees Eligible for the Mentorship Program by Title
- !![](Resources/Elegible_titles.png)
+ ![](Resources/Elegible_titles.png)
  - ### Number of Employees Eligible for the Mentorship Program by Department
- !![](Resources/department_eligible_count.png)
+ ![](Resources/department_eligible_count.png)
 
 ## Summary
 ### How many roles will need to be filled as employee's retirements begin to make and impact?
