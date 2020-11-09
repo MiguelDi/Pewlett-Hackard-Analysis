@@ -22,11 +22,11 @@ The queries for mentorship by title and department were derived from [mentor ele
  - ### Number of Retiring Employees by Title
  !![](Resources/Retirementbytitle.png)
  - ### Number of Retiring Employees by Department
-![Retiring by Department](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Number%20of%20Retiring%20Employees%20by%20Department.png)
+!![](Resources/Retirementemployeesbydept.png)
  - ### Number of Employees Eligible for the Mentorship Program by Title
-![Elegible by title](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/Elegible_titles.png)
+!![](Resources/Elegible_titles.png)
  - ### Number of Employees Eligible for the Mentorship Program by Department
-![Elegible by Department](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis/blob/main/Resources/department_eligible_count.png)
+!![](Resources/department_eligible_count.png)
 
 ## Summary
 ### How many roles will need to be filled as employee's retirements begin to make and impact?
